@@ -3,13 +3,14 @@ Common points to include while develpoing Sotware Applications.
 It should start wuth Client Name, Project Name then followed by Title.
 Create Registration Page.
 Create Log in Page.
-Give proper instructions for all.
+Give proper instructions for all with all path.
 
-New Registration
+New Registration should ask for id and phone number both
 Login
-Captcha
+Captcha to be used madatorily
 FOrgot Password
 
 
 Able to go to Dashboard
 Explore here
+Successfull work flow started
